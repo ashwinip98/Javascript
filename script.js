@@ -98,7 +98,7 @@
 // }
 
 
-//while loop
+
 //display sum of positive number
 // let sum=0;
 // let number1 = parseInt(prompt(`Enter a number1: `));
